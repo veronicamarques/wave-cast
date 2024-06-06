@@ -1,2 +1,2 @@
 # wave-cast
-Site desenvolvido no curso de CSS: Grid da Alura
+Site responsivo de uma plataforma de podcasts desenvolvido no curso de CSS: Grid da Alura
